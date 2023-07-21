@@ -1,4 +1,6 @@
-# Swirly
+<img width="1433" alt="Screenshot 2023-07-21 at 16 59 01" src="https://github.com/JABnat/Swirly/assets/109919004/06b72c27-6afb-4f43-aa28-598bdc63aac0">
+#SWIRLY
+
 CSS project using JavaScript to replicate the award winning design from Camille Mormal
 
 This personal project is intended to train Frontend skills using JavaScript and animations. 
