@@ -1,4 +1,4 @@
-<img width="1433" alt="Screenshot 2023-07-21 at 16 59 01" src="https://github.com/JABnat/Swirly/assets/109919004/06b72c27-6afb-4f43-aa28-598bdc63aac0">
+<img width="1367" alt="Screenshot 2023-07-22 at 12 59 31" src="https://github.com/JABnat/Swirly/assets/109919004/25a209f8-bdca-4e76-ba16-6234a7251078">
 
 # Swirly
 
